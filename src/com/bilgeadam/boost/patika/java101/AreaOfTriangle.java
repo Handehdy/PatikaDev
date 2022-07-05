@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.patika;
+package com.bilgeadam.boost.patika.java101;
 
 import java.util.Scanner;
 import java.lang.*;

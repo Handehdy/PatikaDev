@@ -1,8 +1,8 @@
-package com.bilgeadam.boost.patika;
+package com.bilgeadam.boost.patika.java101;
 
 import java.util.Scanner;
 
-public class VAT {
+public class VATCalculation {
 
 	public static void main(String[] args) {
 		
